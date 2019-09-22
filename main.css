@@ -44,27 +44,28 @@ h2{
     font-weight: 700;
     padding-left:50px;
 }
-.summary p, .objective p {
+.summary p, .objective p, .education, .portfolio {
     margin:10px 0;
+    padding-left: 10px;
+}
+.summary p, .objective p, .skills ul, .education, .portfolio{
+    border-left: 4px solid #999797;
 }
 
 .skills ul{
     display: block;
     list-style-type: disc;
-    padding-left: 25px;
+    padding-left: 40px;
+    margin: 10px 0;
 }
 .skills li{
     padding: 10px 0;
 }
-.education :nth-child(2) {
-    margin-top: 10px
-}
-.education :nth-child(4) {
+
+.education :nth-child(3) {
     margin-top: 20px
 }
-.education :nth-child(5) {
-    padding-bottom: 10px
-}
+
 h3{
     font-weight: 600;
 }
