@@ -26,3 +26,22 @@ calm, work under stress and my language skills will be valuable for this job.
 > * Knowledge of modern architecture patterns as **MVC**;
 > * **NPM** (Node Package Manager) ;
 > * **Intermediate level of English and German (written & spoken)**.  
+
+## Education  
+
+> * **March 2019 – June 2019, Educational Center of HTP**  
+> __*Course:*__  “JavaScript Development”  
+> * **2012-2017, BSU, Faculty of International Relations**  
+> __*Specialization:*__  International Tourism Management
+> __*Subjects Included:*__  Economics, Finance, Accounting, Management, Marketing, Statistics,German, English
+
+> ### Portfolio:   
+> * [*Student Table*](https://daryazel.github.io/Student_Table/public/)  
+>   * the table is created for the score calculation of JavaScript Development course students;
+>   * the app has such functionality as new student adding, lectures and homework with deadlines
+    adding, sorting by any fields, saving score in the local storage, creating students groups for
+    courses projects, highlighting 3 first places;
+>   * learned frontend development technologies including MVC pattern, npm,Webpack, Cypress
+> * [*Music Payer*](https://daryazel.github.io/Music-Player/)  
+>   * playing music, choosing music list by genres, availability of information on artists;
+>   * learned frontend development technologies as Jason, Mustache, Bootstrap, Jquery. 
