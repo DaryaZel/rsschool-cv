@@ -22,7 +22,7 @@ calm, work under stress and my language skills will be valuable for this job.
 > * Good knowledge of **TypeScript, JavaScript, AJAX, HTML5, DOM, CSS**;
 > * Knowledge in web protocols and technologies: **HTTP, TCP, SSL**;
 > * Understanding of front-end build tool as **Webpack**;
-> * Have experience in *Git* and **Visual Studio**;
+> * Have experience in **Git** and **Visual Studio**;
 > * Knowledge of modern architecture patterns as **MVC**;
 > * **NPM** (Node Package Manager) ;
 > * **Intermediate level of English and German (written & spoken)**.  
@@ -33,9 +33,9 @@ calm, work under stress and my language skills will be valuable for this job.
 > __*Course:*__  “JavaScript Development”  
 > * **2012-2017, BSU, Faculty of International Relations**  
 > __*Specialization:*__  International Tourism Management
-> __*Subjects Included:*__  Economics, Finance, Accounting, Management, Marketing, Statistics,German, English
+> __*Subjects Included:*__  Economics, Finance, Accounting, Management, Marketing, Statistics, German, English
 
-> ### Portfolio:   
+## Portfolio:   
 > * [*Student Table*](https://daryazel.github.io/Student_Table/public/)  
 >   * the table is created for the score calculation of JavaScript Development course students;
 >   * the app has such functionality as new student adding, lectures and homework with deadlines
