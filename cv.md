@@ -33,7 +33,7 @@ calm, work under stress and my language skills will be valuable for this job.
 > __*Course:*__  “JavaScript Development”  
 > * **2012-2017, BSU, Faculty of International Relations**  
 > __*Specialization:*__  International Tourism Management
-> __*Subjects Included:*__  Economics, Finance, Accounting, Management, Marketing, Statistics, German, English
+> __*Subjects Included:*__  Economics, Finance, Accounting, Management, Marketing, Statistics, German,                              English
 
 ## Portfolio:   
 > * [*Student Table*](https://daryazel.github.io/Student_Table/public/)  
