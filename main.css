@@ -66,4 +66,26 @@ h3{
     list-style-type: square;
     padding-left: 25px;
 }
-
+.footer{
+    background: rgb(211, 187, 187);  
+    font-size: 30px;
+    color: #fff;
+    padding-top: 61px;
+    padding-bottom: 61px
+}
+.icons{
+    display: flex;
+    justify-content:center;
+   
+}
+.icons a{
+    color: rgb(14, 12, 12);
+    font-size: 50px;
+    margin-right: 25px;
+}
+.icons li:last-child{
+    margin-right: 0;
+}
+.icons a:hover{
+    color: rgb(230, 87, 230);
+}
