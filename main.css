@@ -1,0 +1,100 @@
+.wrapper{
+    margin: 30px auto;
+    max-width: 1024px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: 'Philosopher', sans-serif;
+    -webkit-box-shadow: 3px 10px 5px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 10px 5px 11px rgba(0,0,0,0.75);
+    box-shadow: 3px 10px 5px 11px rgba(0,0,0,0.75);
+}
+em{
+    font-style: initial;
+    font-weight: bold;
+}
+
+.header{
+    padding: 50px 50px
+}
+h1{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.my-name{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.contacts li{
+padding-top:20px;
+}
+.about-me{
+    display: flex;
+    justify-content: space-between
+}
+.my-photo{
+    width: 166px;
+}
+.main-information{
+    padding-left: 50px;
+    padding-right: 50px
+}
+h2{
+    background-color: rgb(211, 187, 187);  
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding-left:50px;
+}
+.summary p, .objective p, .education, .portfolio {
+    margin:10px 0;
+    padding-left: 10px;
+}
+.summary p, .objective p, .skills ul, .education, .portfolio{
+    border-left: 4px solid #999797;
+}
+
+.skills ul{
+    display: block;
+    list-style-type: disc;
+    padding-left: 40px;
+    margin: 10px 0;
+}
+.skills li{
+    padding: 10px 0;
+}
+
+.education :nth-child(3) {
+    margin-top: 20px
+}
+
+h3{
+    font-weight: 600;
+}
+.student-table ul, .music-player ul{
+    padding:10px 0;
+    display: block;
+    list-style-type: square;
+    padding-left: 25px;
+}
+.footer{
+    background: rgb(211, 187, 187);  
+    font-size: 30px;
+    color: #fff;
+    padding-top: 61px;
+    padding-bottom: 61px
+}
+.icons{
+    display: flex;
+    justify-content:center;
+   
+}
+.icons a{
+    color: rgb(14, 12, 12);
+    font-size: 50px;
+    margin-right: 25px;
+}
+.icons li:last-child{
+    margin-right: 0;
+}
+.icons a:hover{
+    color: rgb(230, 87, 230);
+}
